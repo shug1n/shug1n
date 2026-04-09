@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&width=435&lines=Computer+Engineering+Student;Game+Developer;Software+Development+Club+Board+Member;Turning+Coffee+into+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&width=600&lines=Computer+Engineering+Student;Game+Developer;Software+Development+Club+Board+Member;Turning+Coffee+into+Code" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,9 +17,8 @@ project management and leadership skills.
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Math Car** | An educational mobile game for children, featuring the "Teacher Approved" badge. It aims to teach mathematics through an engaging driving experience. | `Unity`, `C#`, `Google Play` |
-[![Play Store](https://img.shields.io/badge/Google_Play-41E0FD?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.shugingames.mathcar) 
-| **Tekillik 🎮🕰️** | An action-adventure game developed for the Yapay Zeka ve Teknoloji Akademisi Game Jam. It follows the story of a mysterious organization traveling through time to alter history. | `Unity`, `C#`, `Game Jam` |
+| **Math Car** <br> [![Play Store](https://img.shields.io/badge/-Play_Store-41E0FD?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.shugingames.mathcar) | An educational mobile game for children, featuring the "Teacher Approved" badge. It aims to teach mathematics through an engaging driving experience. | `Unity`, `C#` |
+| **Tekillik** | An action-adventure game developed for the Yapay Zeka ve Teknoloji Akademisi Game Jam. It follows the story of a mysterious organization traveling through time to alter history. | `Unity`, `C#`|
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetemirturan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehmetemir2run@gmail.com)
 
