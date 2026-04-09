@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## About me
+## 👤 About
 Passionate 3rd-year Computer Engineering student with practical experience in digital game design and
 a strong desire to learn. Demonstrated competence in C# and Unity technologies through participation in
 Game Jam organizations, technical bootcamps, and projects published on the Google Play Store. Aims
